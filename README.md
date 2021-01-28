@@ -1,1 +1,0 @@
-This app uses alphavantage api to get stock data.
