@@ -1,0 +1,1 @@
+This app uses the alphavantage api to receive stock data for a specific ticker symbol and interval.
